@@ -6,6 +6,8 @@
     <string name="originMarkerDescription">Origin marker</string>
     <string name="destinationMarkerDescription">Destination marker</string>
     <string name="buttonTara">Tara!</string>
+    <string name="promptOriginSearchButton">Where do you want to start?</string>
+    <string name="promptDestinationSearchButton">Where do you want to go?</string>
 
     <!-- ORIGIN -->
     <string name="promptSearchOrigin">SEARCH AN ORIGIN</string>
